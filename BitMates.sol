@@ -1904,7 +1904,7 @@ contract BitMates is ERC721, Ownable {
 
     string public BitMatesRecord = "";
 
-    uint256 public constant apePrice = 100000000000000000; //0.10 ETH
+    uint256 public constant apePrice = 70000000000000000; //0.07 ETH
 
     uint public constant maxApePurchase = 20;
 
